@@ -1,6 +1,8 @@
 {
   "pages": [
+    "pages/mainPage/main"
   ],
-  "window": {},
-  "tabBar": {}
+  "window": {
+    "navigationStyle": "custom"
+  }
 }
