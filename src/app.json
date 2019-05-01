@@ -4,5 +4,34 @@
   ],
   "window": {
     "navigationStyle": "custom"
+  },
+  "tabBar" :{
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/mainPage/main",
+        "text": "主页",
+        "iconPath": "static/images/mainPage/zhuye(1).png",
+        "selectedIconPath": "static/images/mainPage/zhuye.png"
+      },
+      {
+        "pagePath": "pages/mainPage/main",
+        "text": "生源库",
+        "iconPath": "static/images/mainPage/ku(1).png",
+        "selectedIconPath": "static/images/mainPage/ku.png"
+      },
+      {
+        "pagePath": "pages/mainPage/main",
+        "text": "消息",
+        "iconPath": "static/images/mainPage/xiaoxi(1).png",
+        "selectedIconPath": "static/images/mainPage/xiaoxi.png"
+      },
+      {
+        "pagePath": "pages/mainPage/main",
+        "text": "我的",
+        "iconPath": "static/images/mainPage/wode(1).png",
+        "selectedIconPath": "static/images/mainPage/wode.png"
+      }
+    ]
   }
 }
